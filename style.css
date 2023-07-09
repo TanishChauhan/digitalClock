@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@600&family=Belanosima&family=Rajdhani:wght@500&display=swap');
+
+
+body{
+    background-color: #435B66;
+}
+h1{
+    color:antiquewhite;
+    position:absolute;
+    left:50%;
+    transform: translateX(-50%) translateY(-50%);
+    font-size:50px;
+}
+.box-container{
+
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translateX(-50%) translateY(-50%);
+    display:flex;
+   
+    
+}
+.headline{
+    text-transform: uppercase;
+    color:#A76F6F;
+    font-size:18px;
+    text-align:center;
+    font-family: 'Belanosima', sans-serif;
+    
+}
+
+.inside{
+   
+    
+    background-color: #2D4356;
+    color: #EAB2A0;
+    font-size: 100px;
+    width:150px;
+    margin:0px 10px;
+    text-align:center;
+    font-family: 'Rajdhani', sans-serif;
+ 
+}
+
